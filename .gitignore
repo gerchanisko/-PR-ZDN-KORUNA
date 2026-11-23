@@ -1,0 +1,4 @@
+node_modules/
+docs/playtest/
+docs/audio/
+*.log
